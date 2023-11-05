@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @David-Buk
-- 👀 I’m interested in Software development
-- 🌱 I’m currently learning Pythen and Java
+- 👀 I’m a Software developer
+- 🌱 I’m currently learning Python and C#
 - 💞️ I’m looking to collaborate on any software projects
-- 📫 How to reach me: @David.buk on instagram and @david buk on Linkedin
+- 📫 How to reach me: @David.buk on instagram and @David Ngeleka on Linkedin
 
 <!---
 David-Buk/David-Buk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
