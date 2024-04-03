@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @David-Buk
 - 👀 I’m a Software developer
-- 🌱 I’m currently learning Python and C#
+- 🌱 I’m proficient in C#, Python, Java, SQL and HTML
 - 💞️ I’m looking to collaborate on any software projects
 - 📫 How to reach me: @David.buk on instagram and @David Ngeleka on Linkedin
 
